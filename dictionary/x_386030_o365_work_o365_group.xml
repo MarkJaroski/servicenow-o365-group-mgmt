@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="O365 Group" max_length="40" name="x_386030_o365_work_o365_group" type="collection">
+        <element label="Group Name" max_length="40" name="group_name" type="string"/>
+        <element label="Owners List" mandatory="true" max_length="4000" name="owners_list" reference="imp_user" type="glide_list"/>
+        <element choice="3" label="Service List" mandatory="true" max_length="4000" name="service_list" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="SharePoint Online" value="sharepoint"/>
+                <element inactive_on_update="false" label="Teams" value="teams"/>
+            </choice>
+        </element>
+    </element>
+</database>
