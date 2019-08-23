@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <connection_type>http_connection</connection_type>
+        <id>x_386030_o365_work.Azure</id>
+        <multiple_connections>false</multiple_connections>
+        <name>Azure</name>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-19 14:51:43</sys_created_on>
+        <sys_id>373fdf26db5333002207b0803996196a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_386030_o365_work.Azure</sys_name>
+        <sys_package display_value="O365 Working Group" source="x_386030_o365_work">df5ec0fcdb1333002207b08039961965</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="O365 Working Group">df5ec0fcdb1333002207b08039961965</sys_scope>
+        <sys_update_name>sys_alias_373fdf26db5333002207b0803996196a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-19 14:51:43</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+</record_update>

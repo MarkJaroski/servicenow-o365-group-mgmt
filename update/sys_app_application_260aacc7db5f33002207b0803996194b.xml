@@ -5,25 +5,25 @@
         <description/>
         <device_type>browser</device_type>
         <hint/>
-        <name>O365 Groups</name>
+        <name>Azure User</name>
         <order>100</order>
-        <roles>x_386030_o365_work.o365_group_user</roles>
+        <roles>x_386030_o365_work.azure_user_user</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-08-13 14:14:59</sys_created_on>
+        <sys_created_on>2019-08-20 14:56:49</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>e15ddc38db5333002207b0803996197e</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>O365 Groups</sys_name>
+        <sys_id>260aacc7db5f33002207b0803996194b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Azure User</sys_name>
         <sys_overrides/>
         <sys_package display_value="O365 Working Group" source="x_386030_o365_work">df5ec0fcdb1333002207b08039961965</sys_package>
         <sys_policy/>
         <sys_scope display_value="O365 Working Group">df5ec0fcdb1333002207b08039961965</sys_scope>
-        <sys_update_name>sys_app_application_e15ddc38db5333002207b0803996197e</sys_update_name>
+        <sys_update_name>sys_app_application_260aacc7db5f33002207b0803996194b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-08-14 14:26:33</sys_updated_on>
-        <title>O365 Groups</title>
+        <sys_updated_on>2019-08-20 14:56:49</sys_updated_on>
+        <title>Azure User</title>
         <view_name/>
     </sys_app_application>
 </record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Azure User" max_length="40" name="x_386030_o365_work_azure_user" type="collection">
+        <element label="Name" mandatory="true" max_length="1000" name="name" type="string"/>
+        <element label="Object ID" mandatory="true" max_length="1024" name="object_id" type="string"/>
+        <element label="Username" mandatory="true" max_length="1024" name="username" type="string"/>
+    </element>
+</database>

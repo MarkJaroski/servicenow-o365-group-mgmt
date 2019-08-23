@@ -40,7 +40,7 @@
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference display_value="" name="imp_user">imp_user</reference>
+        <reference display_value="" name="x_386030_o365_work_azure_user">x_386030_o365_work_azure_user</reference>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-08-13 14:57:00</sys_created_on>
-        <sys_id>2fc6ac7cdb5333002207b080399619d2</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_id>a97721c9db1333002207b08039961906</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Owners List</sys_name>
         <sys_package display_value="O365 Working Group" source="x_386030_o365_work">df5ec0fcdb1333002207b08039961965</sys_package>
         <sys_policy/>
         <sys_scope display_value="O365 Working Group">df5ec0fcdb1333002207b08039961965</sys_scope>
         <sys_update_name>sys_dictionary_x_386030_o365_work_o365_group_owners_list</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-08-13 14:57:00</sys_updated_on>
+        <sys_updated_on>2019-08-20 15:00:24</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
